@@ -7,3 +7,18 @@ C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Breakout Game MOO ICT\Brea
 C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Breakout Game MOO ICT\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.GenerateResource.cache
 C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Breakout Game MOO ICT\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.exe
 C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Breakout Game MOO ICT\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.pdb
+C:\Users\61600140CTC\Source\Repos\Break-out-game-tutorial-in-windows-form\Breakout Game MOO ICT\bin\Debug\Breakout Game MOO ICT.exe.config
+C:\Users\61600140CTC\Source\Repos\Break-out-game-tutorial-in-windows-form\Breakout Game MOO ICT\bin\Debug\Breakout Game MOO ICT.exe
+C:\Users\61600140CTC\Source\Repos\Break-out-game-tutorial-in-windows-form\Breakout Game MOO ICT\bin\Debug\Breakout Game MOO ICT.pdb
+C:\Users\61600140CTC\Source\Repos\Break-out-game-tutorial-in-windows-form\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.AssemblyReference.cache
+C:\Users\61600140CTC\Source\Repos\Break-out-game-tutorial-in-windows-form\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.SuggestedBindingRedirects.cache
+C:\Users\61600140CTC\Source\Repos\Break-out-game-tutorial-in-windows-form\Breakout Game MOO ICT\obj\Debug\Breakout_Game_MOO_ICT.Form1.resources
+C:\Users\61600140CTC\Source\Repos\Break-out-game-tutorial-in-windows-form\Breakout Game MOO ICT\obj\Debug\Breakout_Game_MOO_ICT.Properties.Resources.resources
+C:\Users\61600140CTC\Source\Repos\Break-out-game-tutorial-in-windows-form\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.GenerateResource.cache
+C:\Users\61600140CTC\Source\Repos\Break-out-game-tutorial-in-windows-form\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\61600140CTC\Source\Repos\Break-out-game-tutorial-in-windows-form\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.exe
+C:\Users\61600140CTC\Source\Repos\Break-out-game-tutorial-in-windows-form\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.pdb
+C:\Users\61600140CTC\source\repos\Break-out-game-tutorial-in-windows-form\Breakout Game MOO ICT\bin\Debug\Breakout Game MOO ICT.exe.manifest
+C:\Users\61600140CTC\source\repos\Break-out-game-tutorial-in-windows-form\Breakout Game MOO ICT\bin\Debug\Breakout Game MOO ICT.application
+C:\Users\61600140CTC\source\repos\Break-out-game-tutorial-in-windows-form\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.exe.manifest
+C:\Users\61600140CTC\source\repos\Break-out-game-tutorial-in-windows-form\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.application

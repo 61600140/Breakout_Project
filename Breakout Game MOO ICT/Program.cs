@@ -8,9 +8,7 @@ namespace Breakout_Game_MOO_ICT
 {
     static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+        //startup
         [STAThread]
         static void Main()
         {

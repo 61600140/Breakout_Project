@@ -2,15 +2,10 @@
 {
     partial class Form1
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        //glorified garbage disposal
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -22,14 +17,11 @@
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
             this.txtScore = new System.Windows.Forms.Label();
+            this.lvlScore = new System.Windows.Forms.Label();
             this.player = new System.Windows.Forms.PictureBox();
             this.ball = new System.Windows.Forms.PictureBox();
             this.gameTImer = new System.Windows.Forms.Timer(this.components);
@@ -47,6 +39,17 @@
             this.txtScore.Size = new System.Drawing.Size(88, 24);
             this.txtScore.TabIndex = 0;
             this.txtScore.Text = "Score: 0";
+            // 
+            // lvlScore
+            // 
+            this.lvlScore.AutoSize = true;
+            this.lvlScore.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lvlScore.ForeColor = System.Drawing.Color.White;
+            this.lvlScore.Location = new System.Drawing.Point(130, 13);
+            this.lvlScore.Name = "lvlScore";
+            this.lvlScore.Size = new System.Drawing.Size(88, 24);
+            this.lvlScore.TabIndex = 0;
+            this.lvlScore.Text = "Level: 1";
             // 
             // player
             // 
@@ -80,8 +83,9 @@
             this.Controls.Add(this.ball);
             this.Controls.Add(this.player);
             this.Controls.Add(this.txtScore);
+            this.Controls.Add(this.lvlScore);
             this.Name = "Form1";
-            this.Text = "Break Out Game MOO ICT";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.keyisdown);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.keyisup);
             ((System.ComponentModel.ISupportInitialize)(this.player)).EndInit();
@@ -94,6 +98,7 @@
         #endregion
 
         private System.Windows.Forms.Label txtScore;
+        private System.Windows.Forms.Label lvlScore;
         private System.Windows.Forms.PictureBox player;
         private System.Windows.Forms.PictureBox ball;
         private System.Windows.Forms.Timer gameTImer;
